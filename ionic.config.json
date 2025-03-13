@@ -1,0 +1,7 @@
+{
+  "name": "AllocatorIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
